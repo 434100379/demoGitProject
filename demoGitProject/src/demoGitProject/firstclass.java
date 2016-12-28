@@ -7,6 +7,8 @@ public class firstclass {
 		int y=7;
 		int z=8;
 		System.out.println("so it's workes");
+		System.out.println("so it's workes");
+
 		System.out.println("HELLLLLLLLLO");
 		System.out.println("please add two numbers");
 		System.out.println("Result is: "+ add(x,y));
